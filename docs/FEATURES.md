@@ -1,10 +1,11 @@
-# GAME PLAY | Интерфейсы и возможности
-
 <div align="center">
+
+# 🎮 GAME PLAY
+### ИНТЕРФЕЙСЫ И ВОЗМОЖНОСТИ
 
 **GAMING COMMUNITY • CUSTOM DISCORD BOT**
 
-**Dota 2 • Counter-Strike 2 • Rust • PUBG**
+Dota 2 • Counter-Strike 2 • Rust • PUBG
 
 Собственное игровое сообщество с интерактивным Discord-ботом, системой прогресса, экономикой и инструментами управления.
 
