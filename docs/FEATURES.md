@@ -47,7 +47,11 @@
 
 <div align="center">
 
-<img src="../assets/screenshots/01-navigation.png" alt="GAME PLAY — навигация" width="650">
+<a href="../assets/screenshots/01-navigation.png">
+  <img src="../assets/screenshots/01-navigation.png"
+       alt="GAME PLAY — Навигация"
+       width="698">
+</a>
 
 **Единая система навигации**
 
@@ -133,7 +137,11 @@ GAME PLAY использует собственную виртуальную в�
 
 <div align="center">
 
-<img src="../assets/screenshots/05-steam-verification.png" alt="GAME PLAY — Steam" width="650">
+<a href="../assets/screenshots/05-steam-verification.png">
+  <img src="../assets/screenshots/05-steam-verification.png"
+       alt="GAME PLAY — Подтверждение Steam"
+       width="725">
+</a>
 
 **Добровольная привязка Steam**
 
