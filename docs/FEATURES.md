@@ -1,7 +1,6 @@
+# GAME PLAY | Интерфейсы и возможности
 
 <div align="center">
-
-# GAME PLAY | Интерфейсы и возможности
 
 **GAMING COMMUNITY • CUSTOM DISCORD BOT**
 
@@ -9,15 +8,15 @@
 
 Собственное игровое сообщество с интерактивным Discord-ботом, системой прогресса, экономикой и инструментами управления.
 
-[Главная](../README.md) · [Интерфейсы](#интерфейсы-game-play) · [Возможности](#возможности-сообщества) · [Развитие](#развитие-проекта) · [🗺️ Roadmap](ROADMAP.md) · [English](#english-version)
+[🏠 Главная](../README.md) · [📸 Интерфейсы](#интерфейсы-game-play) · [⚙️ Возможности](#возможности-сообщества) · [🗺️ Roadmap](ROADMAP.md) · [🇬🇧 English](#english-version)
 
-**[Присоединиться к GAME PLAY](https://discord.gg/5ENDb7e4vj)**
+**[🎮 Присоединиться к GAME PLAY](https://discord.gg/5ENDb7e4vj)**
 
 </div>
 
 ---
 
-# Русская версия
+# 🇷🇺 Русская версия
 
 ## О проекте
 
@@ -39,6 +38,8 @@
 
 Все представленные ниже изображения являются скриншотами существующего интерфейса GAME PLAY.
 
+**Нажми на изображение, чтобы открыть его в полном размере.**
+
 ---
 
 ## Интерфейсы GAME PLAY
@@ -49,7 +50,7 @@
 
 <a href="../assets/screenshots/01-navigation.png">
   <img src="../assets/screenshots/01-navigation.png"
-       alt="GAME PLAY — Навигация"
+       alt="GAME PLAY — Навигация по серверу"
        width="698">
 </a>
 
@@ -69,7 +70,11 @@
 
 <div align="center">
 
-<img src="../assets/screenshots/02-player-profile.png" alt="GAME PLAY — профиль игрока" width="650">
+<a href="../assets/screenshots/02-player-profile.png">
+  <img src="../assets/screenshots/02-player-profile.png"
+       alt="GAME PLAY — Профиль игрока"
+       width="650">
+</a>
 
 **Персональный профиль GAME PLAY**
 
@@ -86,7 +91,7 @@
 | Щит | Статус игровой защиты |
 | Steam | Информация о привязанном аккаунте |
 
-Профиль объединяет основные игровые данные пользователя.
+Профиль объединяет основные игровые данные пользователя в одной интерактивной карточке.
 
 ---
 
@@ -94,7 +99,11 @@
 
 <div align="center">
 
-<img src="../assets/screenshots/03-economy-shop.png" alt="GAME PLAY — экономика и магазин" width="650">
+<a href="../assets/screenshots/03-economy-shop.png">
+  <img src="../assets/screenshots/03-economy-shop.png"
+       alt="GAME PLAY — Экономика и магазин"
+       width="650">
+</a>
 
 **Внутренняя игровая экономика**
 
@@ -102,11 +111,11 @@
 
 GAME PLAY использует собственную виртуальную валюту для игровых возможностей сообщества.
 
-Доступны покупка и аренда персональных ролей, отдельные игровые услуги и история операций.
+Участникам доступны покупка и аренда персональных ролей, отдельные игровые услуги и история операций.
 
 Перед выполнением покупки система проверяет необходимые условия.
 
-Виртуальные монеты GAME PLAY используются внутри сообщества и не являются реальными деньгами.
+Виртуальные монеты GAME PLAY используются исключительно внутри сообщества и не являются реальными деньгами.
 
 ---
 
@@ -114,7 +123,11 @@ GAME PLAY использует собственную виртуальную в�
 
 <div align="center">
 
-<img src="../assets/screenshots/04-game-selection.png" alt="GAME PLAY — выбор игры" width="650">
+<a href="../assets/screenshots/04-game-selection.png">
+  <img src="../assets/screenshots/04-game-selection.png"
+       alt="GAME PLAY — Выбор игры"
+       width="650">
+</a>
 
 **Игровые направления**
 
@@ -143,15 +156,17 @@ GAME PLAY использует собственную виртуальную в�
        width="725">
 </a>
 
-**Добровольная привязка Steam**
+**Интерактивное подтверждение Steam**
 
 </div>
 
-В GAME PLAY предусмотрена система привязки Steam-аккаунта к Discord-профилю.
+В GAME PLAY предусмотрена система подтверждения Steam-аккаунта через интерактивную панель.
 
-Она включает интерактивное подтверждение, проверку данных и предоставление доступа к поддерживаемым функциям игровой статистики.
+Участник указывает профиль Steam, получает проверочный код и подтверждает владение аккаунтом.
 
-Привязка Steam не является обязательным условием обычного участия в сообществе.
+После успешной проверки бот предоставляет предусмотренные сервером роли и доступы.
+
+Требования к Steam-подтверждению зависят от настроек соответствующих разделов сообщества.
 
 ---
 
@@ -159,7 +174,11 @@ GAME PLAY использует собственную виртуальную в�
 
 <div align="center">
 
-<img src="../assets/screenshots/06-support.png" alt="GAME PLAY — поддержка" width="650">
+<a href="../assets/screenshots/06-support.png">
+  <img src="../assets/screenshots/06-support.png"
+       alt="GAME PLAY — Поддержка участников"
+       width="650">
+</a>
 
 **Интерактивная система обращений**
 
@@ -200,11 +219,11 @@ GAME PLAY использует собственную виртуальную в�
 
 Возможности сообщества включают:
 
-- Клановую принадлежность
-- Персональные роли
-- Покупку и аренду доступных возможностей
-- Изменение игровых настроек
-- Интерактивные панели участников
+- Клановую принадлежность.
+- Персональные роли.
+- Покупку и аренду доступных возможностей.
+- Изменение игровых настроек.
+- Интерактивные панели участников.
 
 ### Музыка и голосовые возможности
 
@@ -235,68 +254,59 @@ GAME PLAY использует собственного Discord-бота, соз
 
 **Технологическая основа:**
 
-- Python
-- Discord API
-- Интерактивные Discord-компоненты
-- Система хранения пользовательских данных
-- Модульная организация функций
-- Управление доступом и правами
+- Python.
+- Discord API.
+- Интерактивные Discord-компоненты.
+- Система хранения пользовательских данных.
+- Модульная организация функций.
+- Управление доступом и правами.
 
 Проект ориентирован на удобство участников, автоматизацию повседневных операций и дальнейшее расширение возможностей.
 
 ### Особенности интерфейса
 
-- Единая тёмная визуальная стилистика
-- Собственные баннеры
-- Интерактивные кнопки и меню
-- Компактная навигация
-- Контекстные памятки
-- Разделение пользовательских и административных возможностей
+- Единая тёмная визуальная стилистика.
+- Собственные баннеры GAME PLAY.
+- Интерактивные кнопки и меню.
+- Компактная навигация.
+- Контекстные памятки.
+- Разделение пользовательских и административных возможностей.
 
 ---
 
 ## Развитие проекта
 
-GAME PLAY продолжает развиваться.
+GAME PLAY продолжает развиваться. В работе находится глобальное расширение возможностей существующего Discord-бота.
 
-В настоящее время ведётся работа над глобальным расширением существующей системы.
+**Основные направления развития:**
 
-**Следующие возможности находятся в разработке или планировании и не представлены как уже выпущенные функции.**
+- Расширение игровой экономики и системы прогресса.
+- Развитие клановых механик и совместных активностей.
+- Новые игровые предметы, трофеи и достижения.
+- Улучшение интерактивных панелей и административных инструментов.
+- Повышение стабильности и безопасности системы.
 
-| Направление | Планируемые возможности |
-|---|---|
-| Профиль | GAME PLAY ID и расширенная карточка игрока |
-| Инвентарь | Предметы, трофеи и коллекции |
-| Контракты | Задания с игровыми наградами |
-| Достижения | Долгосрочные цели и прогресс |
-| Экономика | Дополнительные способы заработка и использования монет |
-| Рынок | Торговля, аукционы и новые товары |
-| Крафт | Создание предметов из ресурсов |
-| Кланы | Казна, улучшения и совместные цели |
-| Поиск команды | Расширенный подбор тиммейтов |
-| События | Календарь и регистрация |
-| Турниры | Соревнования, результаты и награды |
-| Сезоны | Сезонные рейтинги и прогресс |
-| Мини-игры | Улучшенные интерактивные интерфейсы |
-| AutoMod | Расширенная автоматическая модерация |
-| Администрирование | Дополнительные инструменты управления |
+Совершенствование автоматической модерации рассматривается как отдельное отложенное направление.
 
 ### Принцип обновления
 
 Глобальное обновление разрабатывается с целью сохранить:
 
-- Существующий Discord-сервер
-- Текущее приложение бота
-- Категории, каналы и роли
-- Баннеры и утверждённый дизайн
-- Опубликованные панели
-- Профили и пользовательские данные
-- Балансы, XP и уровни
-- Steam-привязки и кланы
-- Историю операций
-- Работоспособность существующих функций
+- Существующий Discord-сервер и приложение бота.
+- Категории, каналы и роли.
+- Баннеры и утверждённый дизайн.
+- Опубликованные панели.
+- Профили и пользовательские данные.
+- Балансы, XP и уровни.
+- Steam-привязки и кланы.
+- Историю операций.
+- Работоспособность существующих функций.
 
 Совместимость и безопасность изменений проходят отдельную проверку перед внедрением.
+
+**Планируемые функции не считаются доступными до их фактического выпуска.**
+
+[🗺️ Полная дорожная карта GAME PLAY](ROADMAP.md)
 
 ---
 
@@ -306,9 +316,9 @@ GAME PLAY продолжает развиваться.
 
 **Твоя игра. Твоя команда. Твой прогресс.**
 
-[Открыть Discord-сервер](https://discord.gg/5ENDb7e4vj)
+[🎮 Открыть Discord-сервер](https://discord.gg/5ENDb7e4vj)
 
-[Вернуться на главную](../README.md)
+[🏠 Вернуться на главную](../README.md) · [🗺️ Дорожная карта](ROADMAP.md)
 
 </div>
 
@@ -321,6 +331,8 @@ GAME PLAY продолжает развиваться.
 **GAME PLAY** is a gaming Discord community built around Dota 2, Counter-Strike 2, Rust, and PUBG.
 
 The community features a custom Discord bot that brings together player profiles, progression, virtual currency, interactive panels, gaming activities, and administration tools.
+
+[🏠 Home](../README.md) · [📸 Interface Gallery](#interface-gallery) · [⚙️ Additional Features](#additional-features) · [🗺️ Roadmap](ROADMAP.md)
 
 ### Main Features
 
@@ -340,13 +352,17 @@ The community features a custom Discord bot that brings together player profiles
 
 The following screenshots show real interfaces from the existing GAME PLAY bot.
 
+**Click any screenshot to view the full-size image.**
+
 ### 01. Server Navigation
 
 <div align="center">
 
-<img src="../assets/screenshots/01-navigation.png"
-     alt="GAME PLAY Server Navigation"
-     width="698">
+<a href="../assets/screenshots/01-navigation.png">
+  <img src="../assets/screenshots/01-navigation.png"
+       alt="GAME PLAY Server Navigation"
+       width="698">
+</a>
 
 **Interactive Server Navigation**
 
@@ -364,7 +380,11 @@ The interface is designed to reduce reliance on text commands.
 
 <div align="center">
 
-<img src="../assets/screenshots/02-player-profile.png" alt="GAME PLAY Player Profile" width="650">
+<a href="../assets/screenshots/02-player-profile.png">
+  <img src="../assets/screenshots/02-player-profile.png"
+       alt="GAME PLAY Player Profile"
+       width="650">
+</a>
 
 **Personal GAME PLAY Profile**
 
@@ -389,7 +409,11 @@ The profile brings essential player information together in a single interface.
 
 <div align="center">
 
-<img src="../assets/screenshots/03-economy-shop.png" alt="GAME PLAY Economy and Shop" width="650">
+<a href="../assets/screenshots/03-economy-shop.png">
+  <img src="../assets/screenshots/03-economy-shop.png"
+       alt="GAME PLAY Economy and Shop"
+       width="650">
+</a>
 
 **Community Virtual Economy**
 
@@ -409,7 +433,11 @@ GAME PLAY coins are used exclusively within the community and have no real-world
 
 <div align="center">
 
-<img src="../assets/screenshots/04-game-selection.png" alt="GAME PLAY Game Selection" width="650">
+<a href="../assets/screenshots/04-game-selection.png">
+  <img src="../assets/screenshots/04-game-selection.png"
+       alt="GAME PLAY Game Selection"
+       width="650">
+</a>
 
 **Game-Specific Community Sections**
 
@@ -432,19 +460,23 @@ Game roles help organize the community and make it easier to connect with other 
 
 <div align="center">
 
-<img src="../assets/screenshots/05-steam-verification.png"
-     alt="GAME PLAY Steam Verification"
-     width="725">
+<a href="../assets/screenshots/05-steam-verification.png">
+  <img src="../assets/screenshots/05-steam-verification.png"
+       alt="GAME PLAY Steam Verification"
+       width="725">
+</a>
 
-**Optional Steam Account Linking**
+**Interactive Steam Account Verification**
 
 </div>
 
-GAME PLAY provides an interactive system for linking Steam accounts to Discord profiles.
+GAME PLAY provides an interactive Steam account verification system.
 
-It includes account verification, data checks, and access to supported game statistics features.
+Members submit their Steam profile, receive a verification code, and confirm account ownership.
 
-Steam verification is optional and is not required for ordinary community participation.
+After successful verification, the bot grants the roles and access configured for the community.
+
+Steam verification requirements depend on the settings of the relevant server sections.
 
 ---
 
@@ -452,7 +484,11 @@ Steam verification is optional and is not required for ordinary community partic
 
 <div align="center">
 
-<img src="../assets/screenshots/06-support.png" alt="GAME PLAY Member Support" width="650">
+<a href="../assets/screenshots/06-support.png">
+  <img src="../assets/screenshots/06-support.png"
+       alt="GAME PLAY Member Support"
+       width="650">
+</a>
 
 **Interactive Support System**
 
@@ -503,12 +539,12 @@ Some music and voice scenarios are still undergoing integration testing.
 
 The custom administration center provides tools for:
 
-- Channel and role configuration
-- Member moderation
-- Economy management
-- Support request handling
-- Voice channel configuration
-- System diagnostics
+- Channel and role configuration.
+- Member moderation.
+- Economy management.
+- Support request handling.
+- Voice channel configuration.
+- System diagnostics.
 
 Administrative actions are restricted by the appropriate permissions.
 
@@ -520,55 +556,59 @@ GAME PLAY is powered by a custom Discord bot developed specifically for the comm
 
 **Technology:**
 
-- Python
-- Discord API
-- Interactive Discord components
-- Persistent user data
-- Modular functionality
-- Role-based access control
+- Python.
+- Discord API.
+- Interactive Discord components.
+- Persistent user data.
+- Modular functionality.
+- Role-based access control.
 
 ### Interface Design
 
 The project follows a consistent visual identity:
 
-- Dark interface styling
-- Custom banners
-- Interactive buttons and menus
-- Compact navigation
-- Contextual help
-- Separate member and administration controls
+- Dark interface styling.
+- Custom banners.
+- Interactive buttons and menus.
+- Compact navigation.
+- Contextual help.
+- Separate member and administration controls.
 
 ---
 
 ## Future Development
 
-GAME PLAY continues to evolve through an extensive development roadmap.
+GAME PLAY continues to evolve through a major expansion of the existing Discord bot.
 
-The following features are planned or under development and are **not presented as fully released functionality**.
+**Key development directions:**
 
-| Area | Planned Features |
-|---|---|
-| Player Profile | GAME PLAY ID and expanded profiles |
-| Inventory | Items, trophies, collections |
-| Contracts | Reward-based missions |
-| Achievements | Long-term goals and progression |
-| Economy | More ways to earn and spend virtual coins |
-| Marketplace | Trading, auctions, additional goods |
-| Crafting | Resource-based item creation |
-| Clans | Treasury, upgrades, shared objectives |
-| Team Discovery | Improved teammate matching |
-| Events | Calendar and registration |
-| Tournaments | Competitions, results, rewards |
-| Seasons | Seasonal rankings and progression |
-| Mini-Games | Enhanced interactive interfaces |
-| AutoMod | Advanced automated moderation |
-| Administration | Additional management tools |
+- Expanded virtual economy and player progression.
+- Enhanced clan mechanics and cooperative activities.
+- New collectible items, trophies, and achievements.
+- Improved interactive panels and administration tools.
+- Greater system reliability and security.
+
+Advanced automated moderation is a separate, deferred development direction.
 
 ### Update Philosophy
 
-The global upgrade is designed to extend the existing GAME PLAY community while preserving its established Discord server, bot identity, visual design, channels, roles, player data, and familiar features.
+The global upgrade is designed to extend the existing GAME PLAY community while preserving:
+
+- The existing Discord server and bot application.
+- Categories, channels, and roles.
+- Custom banners and established visual design.
+- Published interactive panels.
+- Player profiles and stored data.
+- Virtual balances, XP, and levels.
+- Steam links and clan information.
+- Transaction history.
+- Existing working functionality.
 
 Compatibility and security are reviewed before deployment.
+
+**Planned features are not considered available until officially released.**
+
+[🗺️ Full GAME PLAY Development Roadmap](ROADMAP.md)
 
 ---
 
@@ -578,9 +618,9 @@ Compatibility and security are reviewed before deployment.
 
 **Your Game. Your Team. Your Progress.**
 
-**[Join Our Discord Community](https://discord.gg/5ENDb7e4vj)**
+**[🎮 Join Our Discord Community](https://discord.gg/5ENDb7e4vj)**
 
-[Back to Main Page](../README.md)
+[🏠 Back to Main Page](../README.md) · [🗺️ Roadmap](ROADMAP.md)
 
 </div>
 
@@ -596,6 +636,10 @@ Developed by **BOT ZAVOD**
 
 Custom Discord Bots • Interactive Systems • Automation
 
-[GitHub](https://github.com/BotZavod) • [FunPay](https://funpay.com/users/14765417/) • [Discord](https://discord.gg/5ENDb7e4vj)
+[👨‍💻 BOT ZAVOD Portfolio](https://github.com/BotZavod) · [🛒 FunPay](https://funpay.com/users/14765417/) · [💬 Discord](https://discord.gg/5ENDb7e4vj)
+
+---
+
+<sub>GAME PLAY · Gaming Community · Custom Discord Systems</sub>
 
 </div>
