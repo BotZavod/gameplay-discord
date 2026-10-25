@@ -12,7 +12,9 @@
 
 ### 01. Навигация по серверу
 
-![Навигация GAME PLAY](../assets/screenshots/01-navigation.png)
+<p align="center">
+  <img src="../assets/screenshots/01-navigation.png" alt="Навигация GAME PLAY" width="650">
+</p>
 
 **Единая система навигации**
 
@@ -24,7 +26,9 @@
 
 ### 02. Профиль игрока
 
-![Профиль игрока](../assets/screenshots/02-player-profile.png)
+<p align="center">
+  <img src="../assets/screenshots/02-player-profile.png" alt="Профиль игрока GAME PLAY" width="650">
+</p>
 
 **Персональный профиль GAME PLAY**
 
@@ -41,7 +45,9 @@
 
 ### 03. Экономика и магазин
 
-![Экономика и магазин](../assets/screenshots/03-economy-shop.png)
+<p align="center">
+  <img src="../assets/screenshots/03-economy-shop.png" alt="Экономика GAME PLAY" width="650">
+</p>
 
 **Внутренняя игровая экономика**
 
@@ -58,7 +64,9 @@
 
 ### 04. Выбор игры
 
-![Выбор игры](../assets/screenshots/04-game-selection.png)
+<p align="center">
+  <img src="../assets/screenshots/04-game-selection.png" alt="Выбор игры GAME PLAY" width="650">
+</p>
 
 **Игровые направления**
 
@@ -77,7 +85,9 @@
 
 ### 05. Подтверждение Steam
 
-![Подтверждение Steam](../assets/screenshots/05-steam-verification.png)
+<p align="center">
+  <img src="../assets/screenshots/05-steam-verification.png" alt="Steam GAME PLAY" width="650">
+</p>
 
 **Добровольная привязка Steam**
 
@@ -89,7 +99,9 @@
 
 ### 06. Поддержка участников
 
-![Поддержка GAME PLAY](../assets/screenshots/06-support.png)
+<p align="center">
+  <img src="../assets/screenshots/06-support.png" alt="Поддержка GAME PLAY" width="650">
+</p>
 
 **Интерактивная система обращений**
 
