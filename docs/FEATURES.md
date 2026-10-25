@@ -344,7 +344,9 @@ The following screenshots show real interfaces from the existing GAME PLAY bot.
 
 <div align="center">
 
-<img src="../assets/screenshots/01-navigation.png" alt="GAME PLAY Server Navigation" width="650">
+<img src="../assets/screenshots/01-navigation.png"
+     alt="GAME PLAY Server Navigation"
+     width="698">
 
 **Interactive Server Navigation**
 
@@ -430,7 +432,9 @@ Game roles help organize the community and make it easier to connect with other 
 
 <div align="center">
 
-<img src="../assets/screenshots/05-steam-verification.png" alt="GAME PLAY Steam Verification" width="650">
+<img src="../assets/screenshots/05-steam-verification.png"
+     alt="GAME PLAY Steam Verification"
+     width="725">
 
 **Optional Steam Account Linking**
 
