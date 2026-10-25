@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 🎮 GAME PLAY
 
@@ -6,11 +6,13 @@
 
 **ЕДИНЫЙ ДИЗАЙН · ИНТЕРАКТИВНОЕ УПРАВЛЕНИЕ · ИГРОВАЯ ЭКОСИСТЕМА**
 
-*One Design · Interactive Controls · Connected Gaming Ecosystem*
+*Unified Design · Interactive Controls · Connected Gaming Ecosystem*
 
 **Dota 2 · Counter-Strike 2 · Rust · PUBG**
 
-[🏠 Главная](../README.md) · [📸 Интерфейсы](#интерфейсы-game-play) · [⚙️ Возможности](#возможности-системы) · [🗺️ Roadmap](ROADMAP.md) · [🇬🇧 English](#english-version)
+Собственное игровое Discord-сообщество с фирменным оформлением, интерактивными панелями и взаимосвязанными системами.
+
+[🏠 Главная](../README.md) · [📸 Интерфейсы](#интерфейсы-game-play) · [⚙️ Возможности](#реализованные-возможности) · [🗺️ Roadmap](ROADMAP.md) · [🇬🇧 English](#english-version)
 
 **[🎮 Присоединиться к GAME PLAY](https://discord.gg/5ENDb7e4vj)**
 
@@ -18,56 +20,109 @@
 
 ---
 
-## 🇷🇺 Русская версия
+# 🇷🇺 Русская версия
 
-### Больше, чем набор функций
+## GAME PLAY — единая интерактивная система
 
-**GAME PLAY** — игровое Discord-сообщество с собственной системой интерактивных интерфейсов.
+**GAME PLAY** — игровое Discord-сообщество, созданное вокруг собственного многофункционального бота.
 
-Главная особенность проекта заключается не в количестве отдельных команд и модулей, а в том, **как они объединены в единую, понятную и визуально согласованную систему**.
+Главное отличие проекта заключается не в наличии отдельных стандартных функций, а в их объединении в **единую систему с собственным дизайном, удобной навигацией и интерактивным управлением**.
 
-Профили, экономика, игровые активности, Steam, поддержка и административные инструменты представлены через интерактивные панели с единым оформлением.
+Участники взаимодействуют с возможностями сервера через кнопки, меню и информационные панели. Администрация использует отдельные инструменты управления, выполненные в том же визуальном стиле.
 
-### Четыре принципа GAME PLAY
+### Что уже реализовано
 
-| Принцип | Реализация |
+| Направление | Возможности |
 |:---|:---|
-| 🎨 **Единый дизайн** | Тёмная стилистика, собственные баннеры, согласованные панели и элементы управления |
-| 🖱️ **Интерактивность** | Кнопки, выпадающие меню, подтверждения и контекстные подсказки |
-| 🔗 **Связанная экосистема** | Профиль, прогресс, экономика, Steam и игровые системы в одном пространстве |
-| 🛡️ **Удобное управление** | Отдельные пользовательские и административные интерфейсы с разграничением прав |
+| 🎨 **Фирменный дизайн** | Тёмное оформление, собственные баннеры, единый стиль панелей и кнопок |
+| 🧭 **Интерактивная навигация** | Кнопки, выпадающие меню, переходы между разделами |
+| 👤 **Профиль игрока** | Баланс, уровни, XP, клан, щит, Steam |
+| 🪙 **Экономика** | Виртуальная валюта, магазин, операции, персональные роли |
+| 🎲 **Мини-игры** | Шесть игровых режимов |
+| 🎮 **Игровые направления** | Dota 2, CS2, Rust, PUBG |
+| 🔗 **Steam** | Подтверждение аккаунта и связанные игровые возможности |
+| 🏰 **Кланы** | Клановая принадлежность и связанные данные |
+| 🎵 **Музыка** | Музыкальные возможности и радио |
+| 🔊 **Голосовые комнаты** | Голосовое общение и инструменты управления |
+| 🎫 **Поддержка** | Приватные обращения и тикеты |
+| 🛡️ **Администрирование** | Интерактивный центр управления сервером |
+
+**Все перечисленные направления присутствуют в существующем проекте.** При этом отдельные сценарии глобального обновления продолжают проходить проверку перед окончательным внедрением.
+
+---
+
+## 🎨 Фирменный дизайн GAME PLAY
+
+### Единая визуальная система уже создана
+
+GAME PLAY использует собственный стиль оформления, который объединяет пользовательские, игровые и административные интерфейсы.
+
+**Основные элементы дизайна:**
+
+- Тёмная цветовая гамма.
+- Собственные тематические баннеры.
+- Согласованная композиция панелей.
+- Единое оформление информационных блоков.
+- Серые кнопки для стандартных действий.
+- Красные кнопки для опасных операций.
+- Отдельно выделенная кнопка принятия правил.
+- Компактные меню и контекстные подсказки.
+
+Фирменный стиль применяется не к одной панели, а к интерфейсам различных систем сообщества.
+
+### Интерфейс вместо набора команд
+
+Управление основными возможностями организовано через интерактивные компоненты Discord.
+
+Пользователям доступны:
+
+- Кнопки действий.
+- Выпадающие меню.
+- Информационные карточки.
+- Подтверждения операций.
+- Контекстные памятки.
+- Сообщения о результатах действий.
+- Переходы между связанными разделами.
+
+**Цель реализованного интерфейса — сделать сложную функциональность доступной через понятное визуальное управление.**
 
 ---
 
 ## Интерфейсы GAME PLAY
 
-Ниже представлены скриншоты существующих интерфейсов проекта.
+Ниже представлены скриншоты существующих интерфейсов GAME PLAY.
 
 **Нажмите на изображение, чтобы открыть его в полном размере.**
 
-### 01. Единая навигация
+### 01. Интерактивная навигация
 
 <div align="center">
 
 <a href="../assets/screenshots/01-navigation.png">
-<img src="../assets/screenshots/01-navigation.png" alt="GAME PLAY — Интерактивная навигация" width="698">
+<img src="../assets/screenshots/01-navigation.png" alt="GAME PLAY — Навигация по серверу" width="698">
 </a>
 
-**Главная панель управления возможностями сервера**
+**Единая система навигации по серверу**
 
 </div>
 
-Навигационная система помогает участникам быстро находить необходимые функции без запоминания большого количества команд.
+Главная панель объединяет основные направления GAME PLAY.
+
+Через интерактивное меню участники переходят к игровым разделам, профилю, экономике, поддержке и другим возможностям.
 
 **Особенности:**
 
-- Интерактивные кнопки и выпадающие меню.
-- Переходы между игровыми разделами.
-- Доступ к профилю, экономике и поддержке.
-- Компактная организация действий.
-- Единая визуальная стилистика.
+- Компактное расположение элементов.
+- Единый стиль кнопок и меню.
+- Удобные переходы между разделами.
+- Минимальная зависимость от текстовых команд.
+- Понятная организация функций.
 
-### 02. Персональный профиль
+Навигация является частью уже реализованного интерфейса GAME PLAY.
+
+---
+
+### 02. Персональный профиль игрока
 
 <div align="center">
 
@@ -75,22 +130,26 @@
 <img src="../assets/screenshots/02-player-profile.png" alt="GAME PLAY — Профиль игрока" width="650">
 </a>
 
-**Основная информация участника в одной карточке**
+**Персональная карточка участника**
 
 </div>
 
-Профиль объединяет данные, связанные с участием в сообществе.
+Каждый участник получает доступ к собственному игровому профилю.
 
-| Элемент | Назначение |
+| Элемент | Описание |
 |:---|:---|
-| 🪙 Баланс | Внутренняя игровая валюта |
-| 📈 Уровень | Прогресс участника |
+| 🪙 Баланс | Внутренняя валюта сообщества |
+| 📈 Уровень | Текущий игровой прогресс |
 | ✨ XP | Накопленный опыт |
-| 🛡️ Клан | Клановая принадлежность |
-| 🔰 Щит | Статус игровой защиты |
-| 🔗 Steam | Информация о подтверждённом аккаунте |
+| 🏰 Клан | Клановая принадлежность |
+| 🛡️ Щит | Статус игровой защиты |
+| 🔗 Steam | Информация о привязанном аккаунте |
 
-Профиль связан с игровыми и экономическими возможностями GAME PLAY.
+Профиль связан с другими системами GAME PLAY.
+
+Данные участника используются в игровых, экономических и социальных механиках сообщества.
+
+---
 
 ### 03. Экономика и магазин
 
@@ -100,22 +159,30 @@
 <img src="../assets/screenshots/03-economy-shop.png" alt="GAME PLAY — Экономика и магазин" width="650">
 </a>
 
-**Интерактивное управление внутренней экономикой**
+**Интерактивная экономика GAME PLAY**
 
 </div>
 
-Вместо разрозненных операций участники используют согласованные интерфейсы магазина и экономических функций.
+Внутренняя экономика позволяет использовать виртуальную валюту для доступных игровых возможностей.
 
-- Внутренний баланс и игровые монеты.
-- Покупка и аренда предусмотренных возможностей.
-- Персональные роли.
-- История операций.
-- Проверка условий перед покупками.
-- Подтверждения действий.
+**Реализованные механики:**
 
-> Монеты GAME PLAY используются только внутри сообщества и не имеют денежной стоимости.
+- Виртуальный баланс.
+- Магазин сообщества.
+- Покупка и аренда персональных ролей.
+- Изменение предусмотренных параметров ролей.
+- Переводы внутренней валюты.
+- История экономических операций.
+- Проверки условий покупок.
+- Интерактивные подтверждения.
 
-### 04. Выбор игровых направлений
+Экономические функции оформлены в общем стиле GAME PLAY.
+
+> Виртуальные монеты используются исключительно внутри сообщества. Они не являются реальными деньгами и не имеют денежной стоимости.
+
+---
+
+### 04. Выбор игры
 
 <div align="center">
 
@@ -123,20 +190,22 @@
 <img src="../assets/screenshots/04-game-selection.png" alt="GAME PLAY — Выбор игры" width="650">
 </a>
 
-**Удобный выбор игр и тематических разделов**
+**Игровые направления сообщества**
 
 </div>
 
-Участники выбирают интересующие игровые направления через интерактивный интерфейс.
+Участники могут выбирать интересующие игры и использовать соответствующие разделы сервера.
 
-| Игра | Возможности сообщества |
+| Игра | Возможности |
 |:---|:---|
 | ⚔️ Dota 2 | Общение и поиск команды |
-| 🎯 Counter-Strike 2 | Игровые разделы и тиммейты |
+| 🎯 Counter-Strike 2 | Игровые обсуждения и тиммейты |
 | 🏕️ Rust | Поиск игроков и команд |
 | 🪖 PUBG | Общение и поиск напарников |
 
-Игровые роли помогают организовать разделы и объединять участников по интересам.
+Игровые роли помогают организовать сообщество по интересам.
+
+---
 
 ### 05. Steam-верификация
 
@@ -146,174 +215,218 @@
 <img src="../assets/screenshots/05-steam-verification.png" alt="GAME PLAY — Steam-верификация" width="725">
 </a>
 
-**Подтверждение Steam через интерактивную панель**
+**Интерактивное подтверждение Steam-аккаунта**
 
 </div>
 
-В GAME PLAY предусмотрена добровольная система подтверждения Steam-аккаунта.
+В GAME PLAY реализована система подтверждения Steam.
 
-Участник указывает профиль, получает проверочный код и подтверждает владение аккаунтом. После успешной проверки система предоставляет роли и доступы, предусмотренные настройками сообщества.
+Участник указывает свой Steam-профиль, получает проверочный код и подтверждает владение аккаунтом.
 
-Верификация встроена в общую систему интерфейсов.
+После успешной проверки система предоставляет предусмотренные настройками сервера роли и доступы.
+
+Steam-верификация интегрирована в общую систему GAME PLAY.
+
+---
 
 ### 06. Поддержка участников
 
 <div align="center">
 
 <a href="../assets/screenshots/06-support.png">
-<img src="../assets/screenshots/06-support.png" alt="GAME PLAY — Поддержка" width="650">
+<img src="../assets/screenshots/06-support.png" alt="GAME PLAY — Поддержка участников" width="650">
 </a>
 
-**Обращения к администрации через удобную панель**
+**Интерактивная система обращений**
 
 </div>
 
-Система поддержки позволяет участникам создавать приватные обращения и взаимодействовать с командой сервера.
+Поддержка организована через отдельную панель.
 
-- Создание обращений через кнопки.
-- Отдельное пространство для обсуждения вопроса.
-- Доступ для уполномоченных участников команды.
+**Возможности:**
+
+- Создание приватных обращений.
+- Взаимодействие с администрацией.
 - Управление обращениями.
-- История в рамках предусмотренных механизмов.
+- Ограничение доступа к приватным обсуждениям.
+- Защита от повторного создания обращений в предусмотренных сценариях.
 
-Поддержка сохраняет единый стиль GAME PLAY и интегрирована в общую навигацию.
+Система поддержки использует единое оформление GAME PLAY.
 
 ---
 
-## Возможности системы
+## Реализованные возможности
 
-### 🎨 Визуальная система
+### 👤 Профили и развитие
 
-Оформление GAME PLAY строится вокруг единого набора принципов:
+Система игрового прогресса включает:
 
-- Тёмная визуальная стилистика.
-- Собственные баннеры.
-- Согласованная композиция панелей.
-- Серые кнопки для стандартных действий.
-- Красные кнопки для опасных операций.
-- Выделенное подтверждение принятия правил.
-- Компактные меню и контекстные памятки.
+- Персональные профили.
+- Уровни участников.
+- Опыт XP.
+- Внутренний баланс.
+- Ежедневные награды.
+- Игровую статистику.
+- Клановую принадлежность.
+- Steam-интеграцию.
 
-Новые интерфейсы разрабатываются с учётом существующего оформления сервера.
+Профили объединяют информацию участника и обеспечивают связь между различными игровыми механиками.
 
-### 🖱️ Интерактивные сценарии
+### 🪙 Экономическая система
 
-Кнопки и меню используются не только для навигации, но и для выполнения действий.
+В GAME PLAY реализованы:
 
-В предусмотренных сценариях интерфейсы включают:
+- Внутренняя виртуальная валюта.
+- Магазин.
+- Персональные роли.
+- Покупки и аренда.
+- Переводы монет.
+- История операций.
+- Интерактивные панели экономики.
 
-- Просмотр информации.
-- Выбор доступных операций.
-- Проверку условий.
-- Подтверждение действий.
-- Сообщения об ошибках и ограничениях.
-- Контекстные подсказки.
+Экономика интегрирована с профилями и игровыми активностями.
 
-Такой подход помогает сделать управление понятным без постоянного обращения к спискам команд.
+### 🎲 Шесть мини-игр
 
-### 🔗 Связанная игровая экосистема
-
-GAME PLAY объединяет несколько систем:
-
-| Система | Возможности |
+| Мини-игра | Механика |
 |:---|:---|
-| 👤 Профили | Баланс, уровни, XP, Steam, кланы |
-| 🪙 Экономика | Монеты, магазин, переводы и операции |
-| 🎁 Награды | Ежедневные бонусы и прогресс |
-| 🎲 Мини-игры | Шесть игровых режимов |
-| 🛡️ Кланы | Клановая принадлежность |
-| 🎭 Персонализация | Игровые и персональные роли |
-| 🎫 Поддержка | Обращения и взаимодействие с администрацией |
-| 🎵 Музыка и голос | Музыкальные функции и голосовые комнаты |
+| 🎰 Слоты | Виртуальный игровой автомат |
+| 🪙 Монетка | Выбор стороны монеты |
+| 🎲 Кости | Игра с кубиками |
+| 💣 Мины | Игровое поле с риском |
+| 🏎️ Кибергонки | Виртуальные соревнования |
+| 🎡 Рулетка | Виртуальная рулетка |
 
-### 🎲 Мини-игры
+Все мини-игры используют исключительно внутреннюю валюту GAME PLAY без денежной стоимости.
 
-В системе предусмотрено шесть игровых режимов:
+### 🏰 Кланы и персонализация
 
-**Слоты · Монетка · Кости · Мины · Кибергонки · Рулетка**
+Существующая система включает клановую принадлежность, персональные роли и связанные игровые данные.
 
-Они используют внутреннюю виртуальную валюту GAME PLAY без реальной денежной стоимости.
+Дополнительные механики клановой казны, коллективных достижений и расширенного развития кланов относятся к будущим этапам.
 
-### 🎵 Музыка и голосовые комнаты
+### 🎵 Музыка и голосовые возможности
 
-GAME PLAY включает музыкальные возможности и голосовые комнаты для общения участников.
+**Музыкальная система уже реализована.**
 
-Музыка является одной из функций сообщества, встроенных в общую инфраструктуру. Отдельные сценарии управления голосовыми комнатами продолжают проходить проверку.
+В GAME PLAY присутствуют:
+
+- Музыкальные возможности.
+- Радио.
+- Голосовые комнаты.
+- Связанные инструменты управления.
+
+Музыка является частью общей инфраструктуры сервера, а не отдельным главным направлением проекта.
+
+Некоторые дополнительные сценарии управления голосовыми комнатами продолжают проходить проверку.
 
 ---
 
-## Административный центр
+## 🛡️ Административный центр
 
-### Управление сервером в едином стиле
+GAME PLAY использует собственную систему административных интерфейсов.
 
-Собственная административная система использует интерактивные панели и разграничение доступа.
+Административные панели выполнены в общем стиле проекта и предназначены для управления различными системами сервера.
 
 | Раздел | Назначение |
 |:---|:---|
 | 🛡️ Модерация | Управление участниками |
-| 🎭 Роли | Настройка ролей и доступов |
-| 🧭 Каналы | Параметры структуры сервера |
-| 🪙 Экономика | Административные операции |
+| 🎭 Роли | Управление ролями и правами |
+| 🧭 Каналы | Настройки структуры сервера |
+| 🪙 Экономика | Административные экономические операции |
 | 🎫 Поддержка | Управление обращениями |
 | 🔊 Голосовые комнаты | Настройки голосовых возможностей |
-| 🔧 Диагностика | Проверка отдельных систем |
+| 🔧 Диагностика | Проверка состояния отдельных систем |
 
-Доступ к операциям определяется соответствующими правами.
+### Принципы административного интерфейса
 
-**Принцип:** сложные административные функции должны оставаться управляемыми через понятные интерфейсы, а опасные действия требуют соответствующих ограничений.
+- Единый фирменный дизайн.
+- Интерактивные кнопки и меню.
+- Разграничение прав.
+- Подтверждения важных операций.
+- Информационные подсказки.
+- Отображение доступных параметров.
+
+Административный центр является реализованной частью GAME PLAY. Отдельные изменения в рамках глобального обновления проходят дополнительные проверки.
 
 ---
 
-## Технологическая основа
+## ⚙️ Технологическая основа
 
-GAME PLAY использует собственного Discord-бота, созданного специально для сообщества.
+GAME PLAY работает на собственном Discord-боте, разработанном специально для сообщества.
 
-- Python и Discord API.
+**Используемые технологии и подходы:**
+
+- Python.
+- Discord API.
 - Интерактивные компоненты Discord.
 - Хранение пользовательских данных.
-- Модульная организация возможностей.
-- Разграничение прав.
+- Модульная организация функций.
+- Разграничение доступа.
 - Связанные пользовательские и административные системы.
 
-Исходный код и внутренняя конфигурация не публикуются в данном репозитории.
+Исходный код, приватная конфигурация и внутренние данные проекта не публикуются в этом репозитории.
 
 ---
 
-## Развитие проекта
+## 🔧 Текущее развитие
 
-GAME PLAY развивается как существующая система, а не как набор независимых ботов.
+### Глобальное обновление существующего бота
 
-**Направления дальнейшей работы:**
+Основные интерфейсы и системы GAME PLAY уже созданы.
 
-- Расширенная карточка игрока и GAME PLAY ID.
-- Инвентарь, предметы и трофеи.
-- Контракты и достижения.
-- Новые способы заработка и использования монет.
+Текущая работа направлена на дальнейшее расширение возможностей, повышение надёжности и проверку совместимости изменений.
+
+**Основные задачи:**
+
+- Проверка интеграции обновлённых модулей.
+- Проверка базы данных и сохранности прогресса.
+- Проверка прав доступа.
+- Проверка экономических операций.
+- Проверка защиты от повторных действий.
+- Проверка работы интерактивных панелей.
+- Проверка совместимости с действующим Discord-сервером.
+
+**Важно:** успешная локальная проверка отдельных компонентов не означает завершения всех проверок перед внедрением обновления.
+
+### Сохранение существующего проекта
+
+Обновления разрабатываются с целью сохранить:
+
+- Действующий Discord-сервер.
+- Существующее приложение бота.
+- Категории, каналы и роли.
+- Утверждённый дизайн.
+- Баннеры и опубликованные панели.
+- Пользовательские профили.
+- Балансы, XP и уровни.
+- Steam-привязки.
+- Клановые данные.
+- Историю операций.
+
+**Визуальный редизайн не входит в текущее глобальное обновление.**
+
+---
+
+## 🗺️ Будущие возможности
+
+Следующие направления планируются или рассматриваются отдельно:
+
+- Расширенная игровая экономика.
+- Дополнительные способы заработка и использования монет.
+- Инвентарь и коллекционные предметы.
+- Трофеи и достижения.
+- Контракты и игровые задания.
+- Клановая казна и коллективные цели.
 - Торговля, аукционы и крафт.
-- Клановая казна и совместные цели.
-- События, турниры и сезонные активности.
-- Расширение игровых направлений, включая ETS2.
-- Повышение стабильности и безопасности.
+- События и турниры.
+- Дополнительные игровые направления, включая Euro Truck Simulator 2.
 
-Развитие собственной автоматической модерации рассматривается отдельно и отложено.
+Переработка собственной автоматической модерации отложена и не входит в текущие приоритеты.
 
-### Принцип сохранения проекта
+**Запланированные возможности не считаются реализованными до их фактического выпуска.**
 
-При обновлениях предусматривается сохранение:
-
-- Существующего Discord-сервера и приложения бота.
-- Категорий, каналов и ролей.
-- Баннеров и утверждённого дизайна.
-- Опубликованных интерактивных панелей.
-- Профилей и пользовательских данных.
-- Балансов, уровней и XP.
-- Steam-привязок и кланов.
-- Истории операций.
-- Работоспособности существующих функций.
-
-Совместимость изменений проверяется до внедрения. Запланированные функции не считаются доступными до фактического выпуска.
-
-**[🗺️ Полная дорожная карта GAME PLAY](ROADMAP.md)**
+[🗺️ Полная дорожная карта GAME PLAY](ROADMAP.md)
 
 ---
 
@@ -325,7 +438,7 @@ GAME PLAY развивается как существующая система,
 
 **[💬 Открыть Discord-сервер](https://discord.gg/5ENDb7e4vj)**
 
-[🏠 Главная](../README.md) · [🗺️ Планы развития](ROADMAP.md)
+[🏠 Главная](../README.md) · [🗺️ Дорожная карта](ROADMAP.md)
 
 </div>
 
@@ -337,28 +450,67 @@ GAME PLAY развивается как существующая система,
 
 ## GAME PLAY | Interfaces & Features
 
-**ONE DESIGN · INTERACTIVE CONTROLS · CONNECTED GAMING ECOSYSTEM**
+**UNIFIED DESIGN · INTERACTIVE CONTROLS · CONNECTED GAMING ECOSYSTEM**
 
-**GAME PLAY** is a Discord gaming community powered by a custom interactive system.
+**GAME PLAY** is a gaming Discord community powered by a custom multifunctional bot.
 
-Its defining feature is not simply the number of commands or modules. It is **the way different functions are connected through a consistent, intuitive interface**.
+The project's defining feature is not simply the number of individual modules. It is **the way those modules work together through a consistent visual design and intuitive interactive controls**.
 
-Player profiles, economy, gaming activities, Steam, support, and administration tools follow a unified design language.
+Player profiles, economy, gaming activities, Steam, support, and administration tools are integrated into one connected ecosystem.
 
-### Four Core Principles
+### Already Implemented
 
-| Principle | Implementation |
+| Area | Features |
 |:---|:---|
-| 🎨 **Consistent Design** | Dark styling, custom banners, coordinated panels |
-| 🖱️ **Interactive Controls** | Buttons, dropdowns, confirmations, contextual guidance |
-| 🔗 **Connected Ecosystem** | Player profiles, progression, economy, Steam, gaming systems |
-| 🛡️ **Accessible Management** | Dedicated member and admin interfaces with permission controls |
+| 🎨 **Visual Identity** | Dark styling, custom banners, consistent panels and buttons |
+| 🧭 **Navigation** | Interactive buttons, dropdown menus, connected sections |
+| 👤 **Player Profiles** | Balance, levels, XP, clans, shield, Steam |
+| 🪙 **Economy** | Virtual currency, shop, transactions, custom roles |
+| 🎲 **Mini-Games** | Six gaming modes |
+| 🎮 **Game Sections** | Dota 2, CS2, Rust, PUBG |
+| 🔗 **Steam** | Account verification and related features |
+| 🏰 **Clans** | Clan membership and player data |
+| 🎵 **Music** | Music features and radio |
+| 🔊 **Voice** | Voice rooms and management tools |
+| 🎫 **Support** | Private tickets |
+| 🛡️ **Administration** | Interactive server management center |
+
+These areas exist in the current project. Some updated workflows are still undergoing validation before final deployment.
+
+---
+
+## 🎨 Established Visual Identity
+
+### A Unified Design System
+
+GAME PLAY already features its own consistent visual identity.
+
+The existing design includes:
+
+- Dark interface styling.
+- Custom thematic banners.
+- Coordinated panel layouts.
+- Consistent information blocks.
+- Gray buttons for standard actions.
+- Red buttons for dangerous operations.
+- A distinct rules-acceptance button.
+- Compact menus and contextual guidance.
+
+This visual identity is applied across member-facing and administrative systems.
+
+### Interactive Controls
+
+Key features are accessible through Discord's interactive components.
+
+Members use buttons, dropdown menus, information panels, confirmations, and contextual help instead of relying on long command lists.
+
+**The interface is designed to make complex functionality easier to access and understand.**
 
 ---
 
 ## Interface Gallery
 
-These screenshots showcase existing GAME PLAY interfaces.
+The following screenshots show existing GAME PLAY interfaces.
 
 **Click an image to view it in full size.**
 
@@ -374,9 +526,9 @@ These screenshots showcase existing GAME PLAY interfaces.
 
 </div>
 
-The main navigation panel connects key community features through buttons and dropdown menus.
+The main navigation panel connects the community's key features.
 
-Members can access game sections, profiles, economy features, support, and other available services without memorizing numerous commands.
+Members can access game sections, player profiles, economy features, support, and other services through interactive buttons and dropdown menus.
 
 ### 02. Player Profile
 
@@ -386,20 +538,20 @@ Members can access game sections, profiles, economy features, support, and other
 <img src="../assets/screenshots/02-player-profile.png" alt="GAME PLAY Player Profile" width="650">
 </a>
 
-**Essential Player Information in One Interface**
+**Personal GAME PLAY Profile**
 
 </div>
 
-| Element | Purpose |
+| Element | Description |
 |:---|:---|
 | 🪙 Balance | Community virtual currency |
 | 📈 Level | Player progression |
 | ✨ XP | Experience points |
-| 🛡️ Clan | Clan membership |
-| 🔰 Shield | In-game protection status |
-| 🔗 Steam | Verified account information |
+| 🏰 Clan | Clan membership |
+| 🛡️ Shield | Gaming protection status |
+| 🔗 Steam | Linked account information |
 
-Player profiles connect progression, economy, and other community systems.
+Profiles connect player progression, economy, and community features.
 
 ### 03. Economy & Shop
 
@@ -409,15 +561,15 @@ Player profiles connect progression, economy, and other community systems.
 <img src="../assets/screenshots/03-economy-shop.png" alt="GAME PLAY Economy and Shop" width="650">
 </a>
 
-**Interactive Virtual Economy**
+**Interactive Community Economy**
 
 </div>
 
-The economy is managed through coordinated interfaces rather than disconnected commands.
+GAME PLAY includes virtual balances, a shop, custom roles, supported purchases and rentals, virtual currency transfers, transaction history, and purchase validation.
 
-Features include virtual balances, custom roles, supported purchases and rentals, transaction history, condition checks, and action confirmations.
+Economy interfaces follow the established GAME PLAY design.
 
-> GAME PLAY coins are exclusively used within the community and have no real-world monetary value.
+> GAME PLAY virtual coins are exclusively used within the community and have no real-world monetary value.
 
 ### 04. Game Selection
 
@@ -427,18 +579,18 @@ Features include virtual balances, custom roles, supported purchases and rentals
 <img src="../assets/screenshots/04-game-selection.png" alt="GAME PLAY Game Selection" width="650">
 </a>
 
-**Choose Games Through an Interactive Panel**
+**Game-Specific Community Sections**
 
 </div>
 
 | Game | Community Features |
 |:---|:---|
-| ⚔️ Dota 2 | Chat and teammate discovery |
-| 🎯 Counter-Strike 2 | Game sections and team finding |
-| 🏕️ Rust | Player and group discovery |
-| 🪖 PUBG | Squad finding and discussions |
+| ⚔️ Dota 2 | Communication and teammate discovery |
+| 🎯 Counter-Strike 2 | Game discussions and team finding |
+| 🏕️ Rust | Player and team discovery |
+| 🪖 PUBG | Communication and squad discovery |
 
-Game roles help organize the community around shared interests.
+Game roles help members find others with shared interests.
 
 ### 05. Steam Verification
 
@@ -452,9 +604,11 @@ Game roles help organize the community around shared interests.
 
 </div>
 
+GAME PLAY includes an implemented Steam verification system.
+
 Members submit their Steam profile, receive a verification code, and confirm account ownership.
 
-Successful verification grants the roles and access configured for the relevant community sections.
+Successful verification grants the roles and access configured for the relevant server sections.
 
 ### 06. Member Support
 
@@ -464,113 +618,153 @@ Successful verification grants the roles and access configured for the relevant 
 <img src="../assets/screenshots/06-support.png" alt="GAME PLAY Member Support" width="650">
 </a>
 
-**Private Requests Through an Interactive Panel**
+**Interactive Support System**
 
 </div>
 
-Members can create support requests, communicate with authorized server staff, and manage requests through the available ticket system.
+Members can create private support requests and communicate with authorized server staff.
 
-The support interface follows the same visual design as the rest of GAME PLAY.
+The ticket system includes request management, access restrictions, and duplicate-request protection in supported workflows.
 
 ---
 
-## Connected Community Systems
+## Implemented Features
 
-### 🎨 Visual Identity
+### 👤 Player Profiles & Progression
 
-GAME PLAY follows a consistent dark visual style with custom banners, coordinated panel layouts, gray buttons for standard actions, red buttons for dangerous operations, and contextual help.
+The system includes personal profiles, levels, XP, virtual balances, daily rewards, gaming statistics, clan membership, and Steam integration.
 
-New interfaces are designed to preserve the established server appearance.
+### 🪙 Economy
 
-### 🖱️ Interactive Workflows
+The existing economy includes virtual currency, a shop, custom roles, supported purchases and rentals, transfers, transaction history, and interactive economy panels.
 
-Supported workflows use buttons, menus, condition checks, confirmations, and feedback messages to make everyday actions easier.
+### 🎲 Six Mini-Games
 
-### 🔗 Integrated Features
-
-| System | Features |
+| Game | Mode |
 |:---|:---|
-| 👤 Profiles | Balance, levels, XP, Steam, clans |
-| 🪙 Economy | Virtual currency, shop, transfers |
-| 🎁 Rewards | Daily bonuses and progression |
-| 🎲 Mini-Games | Six virtual-currency game modes |
-| 🛡️ Clans | Clan membership |
-| 🎭 Personalization | Gaming and custom roles |
-| 🎫 Support | Private tickets |
-| 🎵 Music & Voice | Music features and voice channels |
+| 🎰 Slots | Virtual slot game |
+| 🪙 Coin Flip | Coin-side selection |
+| 🎲 Dice | Dice game |
+| 💣 Mines | Risk-based game board |
+| 🏎️ Cyber Racing | Virtual racing |
+| 🎡 Roulette | Virtual roulette |
 
-### 🎲 Mini-Games
+All modes use internal GAME PLAY virtual currency with no monetary value.
 
-**Slots · Coin Flip · Dice · Mines · Cyber Racing · Roulette**
+### 🏰 Clans & Personalization
 
-All six modes use internal GAME PLAY virtual currency without real-world monetary value.
+The current system includes clan membership, custom roles, and related player data.
+
+Advanced clan treasury mechanics, shared achievements, and expanded clan progression are future development directions.
 
 ### 🎵 Music & Voice
 
-Music functionality and voice channels are part of the existing community system.
+**Music functionality is already implemented.**
 
-Some advanced voice-management scenarios are still undergoing testing.
+GAME PLAY includes music features, radio, voice rooms, and related management tools.
+
+Music is part of the connected community infrastructure rather than the project's primary differentiator.
+
+Some additional voice-management workflows are still undergoing testing.
 
 ---
 
-## Administration Center
+## 🛡️ Administration Center
 
 GAME PLAY includes a custom interactive administration system.
 
 | Area | Purpose |
 |:---|:---|
 | 🛡️ Moderation | Member management |
-| 🎭 Roles | Role and access configuration |
-| 🧭 Channels | Server structure settings |
-| 🪙 Economy | Administrative operations |
+| 🎭 Roles | Role and permission management |
+| 🧭 Channels | Server structure configuration |
+| 🪙 Economy | Administrative economy operations |
 | 🎫 Support | Ticket management |
 | 🔊 Voice | Voice feature configuration |
 | 🔧 Diagnostics | System checks |
 
-Administrative actions are restricted according to permissions.
+Administrative interfaces use the established GAME PLAY visual identity.
+
+Features include interactive controls, permission restrictions, confirmations, contextual guidance, and information about available settings.
+
+The administration center is implemented. Individual changes included in the major update are subject to additional validation.
 
 ---
 
-## Technology
+## ⚙️ Technology
 
-GAME PLAY is powered by a custom Discord bot developed for the community.
+GAME PLAY is powered by a custom Discord bot developed specifically for the community.
 
-- Python and Discord API.
+- Python.
+- Discord API.
 - Interactive Discord components.
 - Persistent user data.
 - Modular functionality.
 - Permission-based access.
 - Connected member and administration systems.
 
-The source code and internal configuration are not publicly distributed in this repository.
+Source code, private configuration, and internal project data are not publicly distributed in this repository.
 
 ---
 
-## Future Development
+## 🔧 Current Development
 
-Planned directions include:
+### Major Update of the Existing Bot
 
-- Expanded player profiles and GAME PLAY ID.
-- Inventory, collectibles, and trophies.
-- Contracts and achievements.
-- Additional ways to earn and spend virtual coins.
+The core GAME PLAY interfaces and systems have already been created.
+
+Current development focuses on expanding functionality, improving reliability, and validating compatibility.
+
+**Current validation priorities:**
+
+- Updated module integration.
+- Database compatibility and player data preservation.
+- Permission checks.
+- Economy operation validation.
+- Duplicate-action protection.
+- Interactive panel functionality.
+- Compatibility with the existing Discord server.
+
+Passing individual local checks does not automatically mean that every production deployment requirement has been satisfied.
+
+### Preserving the Existing Project
+
+Updates are designed to preserve:
+
+- The current Discord server.
+- The existing bot application.
+- Categories, channels, and roles.
+- Established visual design.
+- Custom banners and published panels.
+- Player profiles.
+- Virtual balances, levels, and XP.
+- Steam account links.
+- Clan data.
+- Transaction history.
+
+**A visual redesign is not part of the current major update.**
+
+---
+
+## 🗺️ Future Development
+
+Planned or considered directions include:
+
+- Expanded virtual economy.
+- Additional ways to earn and spend coins.
+- Inventory and collectibles.
+- Trophies and achievements.
+- Contracts and gaming tasks.
+- Clan treasury and cooperative objectives.
 - Trading, auctions, and crafting.
-- Clan treasury and shared objectives.
-- Events, tournaments, and seasonal activities.
-- Additional gaming sections, including ETS2.
-- Reliability and security improvements.
+- Events and tournaments.
+- Additional gaming sections, including Euro Truck Simulator 2.
 
-Advanced custom automated moderation is a separate, deferred development direction.
+Advanced custom automated moderation is a deferred development direction.
 
-### Preserving the Existing Community
+**Planned features are not considered implemented until they are actually released.**
 
-Updates are designed to preserve the existing server, bot application, channels, roles, banners, established visual design, published panels, player profiles, stored balances, XP, Steam links, clans, and transaction history.
-
-Compatibility and security are reviewed before deployment.
-
-**Planned features are not considered available until released.**
-
-**[🗺️ Full GAME PLAY Roadmap](ROADMAP.md)**
+[🗺️ Full GAME PLAY Development Roadmap](ROADMAP.md)
 
 ---
 
@@ -590,6 +784,6 @@ Compatibility and security are reviewed before deployment.
 
 [🛒 FunPay](https://funpay.com/users/14765417/) · [💬 Discord](https://discord.gg/5ENDb7e4vj)
 
-<sub>GAME PLAY · Gaming Community · Interactive Discord Systems</sub>
+<sub>GAME PLAY · Gaming Community · Interactive Discord Ecosystem</sub>
 
 </div>
