@@ -13,6 +13,10 @@
 
 </div>
 
+### 📚 Документация / Documentation
+
+🏠 [Главная / Home](README.md) · 📸 [Возможности / Features](docs/FEATURES.md) · 🗺️ [Планы развития / Roadmap](docs/ROADMAP.md)
+
 ---
 
 ## GAME PLAY | Игровое сообщество
